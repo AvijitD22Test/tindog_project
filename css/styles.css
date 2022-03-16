@@ -3,7 +3,6 @@
 #title {
     background-color: #ff4c68;
     padding: 3% 15% 5%;
-    color: #fff;
 }
 
 .iphone-img {
@@ -37,6 +36,21 @@
 
 /*? Navigation Bar End  */
 
+
+/*? Section Start  */
+
+.colored-background{
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+.white-background{
+    background-color: #fff;
+}
+
+/* ?Section End  */
+
+
 /*? Heading Start */
 
 .Top-Heading {
@@ -65,7 +79,7 @@ h6 {
 }
 
 p {
-    color: #8f8f8f !important;
+    color: #8f8f8f;
 }
 
 
@@ -149,7 +163,6 @@ p {
 #testimonials {
     text-align: center;
     background-color: #ef8172;
-    color: #fff;
 }
 
 .testimonial-image {
@@ -215,7 +228,6 @@ p {
 
 #cta {
     background-color: #ff4c68;
-    color: #fff;
     text-align: center;
 }
 
@@ -226,16 +238,15 @@ p {
 
 /* ? CTA End */
 
-/*? Symbols */
+/*? Social Media Logos and Symbols */
 .fa-brands {
     padding: 0px 10px 0px;
 }
-/*? Symbols End */
+/*? Social Media Logos and Symbols End */
 
 /* ? Footer : Contact */
 
 #footer {
     padding: 9%;
     text-align: center;
-    background-color: #fff;
 }
